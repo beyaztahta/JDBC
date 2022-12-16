@@ -1,0 +1,11 @@
+
+ /* - Type code to ask user to enter the int elements and add elements into the list
+        - Ask user to enter the elements to remove, then remove that element from list.
+        - Ask user to enter the element to update, then update it.
+
+
+/* - Kullanıcıdan int öğelerini girmesini ve listeye öğe eklemesini istemek için kod yazın
+        - Kullanıcıdan kaldırılacak öğeleri girmesini isteyin, ardından bu öğeyi listeden kaldırın.
+        - Kullanıcıdan güncellemek için öğeyi girmesini isteyin, ardından güncelleyin.
+
+  */
